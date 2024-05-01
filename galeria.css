@@ -20,7 +20,7 @@ main {
     height:100%;
 }
 footer {
-    background-color: #C89400;
+    background-color: #c8930099;
     text-align: center;
     padding: 1rem;
 }
@@ -103,12 +103,12 @@ h1 {
         grid-column: 2 / span 2;
     }
 }
-@media screen and (min-width:1024px) and (max-width: 1215px) {
+@media screen and (min-width:1024px) and (max-width: 1160px) {
     .gallery-item:nth-of-type(5n + 1) {
         grid-column: 2 / span 2;
     }
 }
-@media screen and (min-width:1216px) and (max-width: 1391px) {
+@media screen and (min-width:1161px) and (max-width: 1391px) {
     .gallery-item:nth-of-type(6n + 1) {
         grid-column: 2 / span 2;
     }
