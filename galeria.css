@@ -11,16 +11,18 @@ body {
     background-image: url(./img/background.jpg);
     background-size: cover;
     background-repeat: no-repeat;
-    margin-top: 100px;
+    margin-top: 1rem;
 }
 main {
     background-color: rgba(250, 235, 215, 0.588);
-    padding-top: 4rem;
+    padding-top: 1rem;
     padding-bottom: 120px;
     height:100%;
 }
 footer {
-    margin-top: 110px;
+    background-color: #C89400;
+    text-align: center;
+    padding: 1rem;
 }
 h1 {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
